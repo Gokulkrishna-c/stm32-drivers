@@ -1,0 +1,6 @@
+"./Src/003_SPITesting.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f410rbtx.o"
+"./drivers/Src/stm32f410xx_gpio_driver.o"
+"./drivers/Src/stm32f410xx_spi_driver.o"

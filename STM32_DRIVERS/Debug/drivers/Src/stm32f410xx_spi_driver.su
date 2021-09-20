@@ -1,0 +1,7 @@
+stm32f410xx_spi_driver.c:23:6:SPI_PeriClockControl	16	static
+stm32f410xx_spi_driver.c:61:6:SPI_Init	24	static
+stm32f410xx_spi_driver.c:107:9:SPI_GetFLagStatus	16	static
+stm32f410xx_spi_driver.c:120:6:SPI_SendData	24	static
+stm32f410xx_spi_driver.c:157:6:SPI_PeripheralControl	16	static
+stm32f410xx_spi_driver.c:173:6:SPI_SSIConfig	16	static
+stm32f410xx_spi_driver.c:190:6:SPI_ReceiveData	24	static
